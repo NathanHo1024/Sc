@@ -8,12 +8,13 @@
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
  */
-package com.hlgj.springcloud.dao;
+package com.hlgj.springcloud.mapper;
 
-import com.hlgj.springcloud.Dept;
+import com.hlgj.springcloud.entity.Dept;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
+
 
 /**
  * 〈一句话功能简述〉<br>

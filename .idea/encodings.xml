@@ -5,6 +5,7 @@
     <file url="file://$PROJECT_DIR$/microservicecloud-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-consumer-dept-8010" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-eureka-8111" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>

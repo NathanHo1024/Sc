@@ -10,8 +10,8 @@
  */
 package com.hlgj.springcloud.service.impl;
 
-import com.hlgj.springcloud.Dept;
-import com.hlgj.springcloud.dao.DeptMapper;
+import com.hlgj.springcloud.entity.Dept;
+import com.hlgj.springcloud.mapper.DeptMapper;
 import com.hlgj.springcloud.service.DeptService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

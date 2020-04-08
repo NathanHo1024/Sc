@@ -10,7 +10,8 @@
  */
 package com.hlgj.springcloud.service;
 
-import com.hlgj.springcloud.Dept;
+
+import com.hlgj.springcloud.entity.Dept;
 
 import java.util.List;
 

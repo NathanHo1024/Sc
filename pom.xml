@@ -13,6 +13,7 @@
         <module>microservicecloud-provider-dept-8009</module>
         <module>microservicecloud-consumer-dept-8010</module>
         <module>microservicecloud-dao</module>
+        <module>microservicecloud-eureka-8111</module>
     </modules>
 
     <properties>
@@ -73,4 +74,25 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
+    <build><!-- build构建的意思 -->
+        <finalName>springcloud-project</finalName><!-- 父工程名字 -->
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>true</filtering>
+            </resource>
+        </resources> <!-- 资源，意思可以访问所有工程下的src的main的resources下的内容-->
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resoureces-plugin</artifactId>
+                <configuration>
+                    <delimiters>
+                        <delimit>$</delimit>
+                    </delimiters>
+                </configuration>
+            </plugin>
+        </plugins><!-- 加载的插件 负责解析和解读的-->
+    </build>
 </project>
