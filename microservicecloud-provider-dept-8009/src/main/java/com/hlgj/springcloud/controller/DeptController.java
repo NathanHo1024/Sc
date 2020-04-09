@@ -64,7 +64,7 @@ public class DeptController {
         return returnResult.setMsg("查询结果").setCode(200).setData(jsonObject);
     }
 
-    @RequestMapping(value = "/selectAllDept",method = RequestMethod.GET)
+    @GetMapping(value = "/selectAllDept")
     public ReturnResult selectAllDept(){
         ReturnResult returnResult = new ReturnResult();
         JSONObject jsonObject = new JSONObject();
@@ -85,9 +85,7 @@ public class DeptController {
                     serviceInstance.getHost(),serviceInstance.getPort()
             ,serviceInstance.getUri());
         }
-        returnResult.setMsg("get");
-        returnResult.setData(this.discoveryClient);
-        returnResult.setCode(200);
+        returnResult.setMsg("get").setData(this.discoveryClient).setCode(200);
         return returnResult;
     }
 }

@@ -1,0 +1,4 @@
+com\hlgj\springcloud\clientservice\DeptClientService.class
+com\hlgj\springcloud\ReturnResult.class
+com\hlgj\myconfig\ribbon\MyRobbinRule.class
+com\hlgj\myconfig\ribbon\MyRobbinRuleUpdate.class

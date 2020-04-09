@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>microservicecloud-provider-dept-8009</artifactId>
-
+    <description>微服务提供者</description>
     <dependencies>
         <dependency>
             <groupId>com.hlgj</groupId>

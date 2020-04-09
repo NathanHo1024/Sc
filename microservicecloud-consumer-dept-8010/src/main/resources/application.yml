@@ -1,3 +1,10 @@
 server:
   port: 8010
 
+
+
+eureka:
+  client:
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://localhost:8111/eureka/,http://localhost:8112/eureka/,http://localhost:8113/eureka/

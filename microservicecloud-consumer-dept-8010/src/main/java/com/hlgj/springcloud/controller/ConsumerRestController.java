@@ -28,26 +28,33 @@ import org.springframework.web.client.RestTemplate;
  * @since 1.0.0
  */
 @RestController
-@RequestMapping("/rest")
+@RequestMapping("/consumer")
 public class ConsumerRestController {
 
     @Autowired
     private RestTemplate restTemplate;
 
-    private static final String URL = "http://127.0.0.1:8009/dept";
+//    private static final String URL = "http://127.0.0.1:8009/dept";
+    private static final String URL = "http://MICROSERVICECLOUD-DEPT";
 
     @PostMapping("/add")
     public ResponseEntity<ReturnResult> addDept(@RequestBody Dept dept){
-        return  restTemplate.postForEntity(URL + "/add", dept, ReturnResult.class);
+        return  restTemplate.postForEntity(URL + "/dept" + "/add", dept, ReturnResult.class);
     }
 
-    @GetMapping("/getDept/{id}")
+    @GetMapping("/add/{id}")
     public ResponseEntity<ReturnResult> getDept(@PathVariable Integer id){
-        return restTemplate.getForEntity(URL + "/selectById/"+ id,ReturnResult.class);
+        return restTemplate.getForEntity(URL + "/dept" + "/selectById/" + id,ReturnResult.class);
     }
 
     @GetMapping("/getAll")
     public ResponseEntity<ReturnResult> getALl(){
-        return restTemplate.getForEntity(URL + "/selectAllDept" , ReturnResult.class);
+        return restTemplate.getForEntity(URL + "/dept" + "/selectAllDept", ReturnResult.class);
+    }
+
+    //测试@EnableDiscoveryClient，消费端可以调用服务发现
+    @GetMapping("/discovery")
+    public ResponseEntity<ReturnResult> consumerDiscovery(){
+        return restTemplate.getForEntity(URL + "/dept" + "/discovery", ReturnResult.class);
     }
 }

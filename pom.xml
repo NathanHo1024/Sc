@@ -14,6 +14,11 @@
         <module>microservicecloud-consumer-dept-8010</module>
         <module>microservicecloud-dao</module>
         <module>microservicecloud-eureka-8111</module>
+        <module>microservicecloud-eureka-sliver-8112</module>
+        <module>microservicecloud-eureka-sliver-8113</module>
+        <module>microservicecloud-provider-dept-8008</module>
+        <module>microservicecloud-provider-dept-8007</module>
+        <module>microservicecloud-consumer-dept-feign</module>
     </modules>
 
     <properties>
@@ -86,7 +91,7 @@
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-resoureces-plugin</artifactId>
+                <artifactId>maven-resources-plugin</artifactId>
                 <configuration>
                     <delimiters>
                         <delimit>$</delimit>

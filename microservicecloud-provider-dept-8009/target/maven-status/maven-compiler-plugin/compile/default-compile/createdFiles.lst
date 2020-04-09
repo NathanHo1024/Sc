@@ -1,4 +1,4 @@
 com\hlgj\springcloud\controller\DeptController.class
-com\hlgj\springcloud\DeptProviderApplication.class
 com\hlgj\springcloud\service\impl\DeptServiceImpl.class
+com\hlgj\springcloud\DeptProvider8009Application.class
 com\hlgj\springcloud\service\DeptService.class

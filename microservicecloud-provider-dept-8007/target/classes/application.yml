@@ -1,0 +1,36 @@
+server:
+  port: 8007
+mybatis:
+  type-aliases-package: com.hlgj.springcloud
+  mapper-locations:
+    - classpath:mybatis/mapper/**/*.xml
+  config-location: classpath:/mybatis/mybatis.cfg.xml
+spring:
+  application:
+    name: microservicecloud-dept
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource    #\u5F53\u524D\u6570\u636E\u6E90
+    driver-class-name: org.gjt.mm.mysql.Driver      #mysql\u9A71\u52A8\u5305
+    url: jdbc:mysql://localhost:3306/cloudDB03?useUnicode=true&characterEncoding=utf-8&useSSL=false&zeroDateTimeBehavior=convertToNull&useAffectedRows=true      #\u6570\u636E\u5E93\u94FE\u63A5
+    username: root
+    password: root
+    dbcp2:
+      min-idle: 5                                   #\u6570\u636E\u5E93\u8FDE\u63A5\u6C60\u7684\u6700\u5C0F\u7EF4\u6301\u8FDE\u63A5\u6570
+      initial-size: 5                               #\u521D\u59CB\u5316\u94FE\u63A5\u6570
+      max-total: 5                                  #\u6700\u5927\u94FE\u63A5\u6570
+      max-wait-millis: 200                          #\u7B49\u5F85\u8FDE\u63A5\u83B7\u53D6\u7684\u6700\u5927\u8D85\u65F6\u65F6\u95F4
+      test-while-idle: true
+      validation-query: SELECT 1
+eureka:
+  client: #客户端注册进eureka服务列表内
+    service-url:
+      defaultZone: http://eurekaMaster:8111/eureka/,http://eurekaSliver1:8112/eureka/,http://eurekaSliver2:8113/eureka/
+  instance:
+    instance-id: microservicecloud-dept-8007  #自定义服务名称信息
+    prefer-ip-address: true      #访问路径可以显示ip地址
+
+info:
+  app.name: hlgj-microservicecloud
+  company.name: www.baidu.com
+  build.artifactId: microservicecloud-provider-dept-8007
+  build.version: 0.0.1

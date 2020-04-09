@@ -2,42 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d394e88-a199-4aff-a1d9-e25f8934f6db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/config/BeanConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-eureka-8111/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/classes/META-INF/microservicecloudapi.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-api/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/microservicecloud-api-0.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-api/target/microservicecloud-api-0.0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/microservicecloud-api-0.0.1.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/config/BeanConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/config/BeanConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/controller/ConsumerRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/controller/ConsumerRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/target/classes/com/hlgj/springcloud/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/target/classes/com/hlgj/springcloud/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/target/classes/com/hlgj/springcloud/config/BeanConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/target/classes/com/hlgj/springcloud/config/BeanConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/target/classes/com/hlgj/springcloud/controller/ConsumerRestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/target/classes/com/hlgj/springcloud/controller/ConsumerRestController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/target/microservicecloud-consumer-dept-8010-0.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/target/microservicecloud-consumer-dept-8010-0.0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-dao/src/main/java/com/hlgj/springcloud/entity/Dept.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-dao/src/main/java/com/hlgj/springcloud/entity/Dept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-dao/src/main/java/com/hlgj/springcloud/mapper/DeptMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-dao/src/main/java/com/hlgj/springcloud/mapper/DeptMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-dao/src/main/resources/mybatis/mapper/DeptMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-dao/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-dao/target/classes/com/hlgj/springcloud/Dept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-dao/target/classes/com/hlgj/springcloud/dao/DeptMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-dao/target/classes/mybatis/mapper/DeptMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-dao/target/classes/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/target/microservicecloud-consumer-dept-8010-0.0.1.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicecloud-dao/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-dao/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-dao/target/microservicecloud-dao-0.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-dao/target/microservicecloud-dao-0.0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-dao/target/microservicecloud-dao-0.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/java/com/hlgj/springcloud/SpringEurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/java/com/hlgj/springcloud/SpringEurekaMasterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-8111/target/classes/META-INF/microservicecloudeureka8111.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-8111/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-eureka-8111/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-8111/target/classes/com/hlgj/springcloud/SpringEurekaApplication.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/DeptProviderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/DeptProviderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/DeptProviderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/DeptProvider8009Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/controller/DeptController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/controller/DeptController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/service/DeptService.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/service/DeptService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/service/impl/DeptServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/service/impl/DeptServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/classes/META-INF/microservicecloudproviderdept8009.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/classes/com/hlgj/springcloud/DeptProviderApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/classes/com/hlgj/springcloud/DeptProviderApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/classes/com/hlgj/springcloud/DeptProviderApplication.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/classes/com/hlgj/springcloud/controller/DeptController.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/classes/com/hlgj/springcloud/controller/DeptController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/classes/com/hlgj/springcloud/service/DeptService.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/classes/com/hlgj/springcloud/service/DeptService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/classes/com/hlgj/springcloud/service/impl/DeptServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/classes/com/hlgj/springcloud/service/impl/DeptServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/microservicecloud-provider-dept-8009-0.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/microservicecloud-provider-dept-8009-0.0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8009/target/microservicecloud-provider-dept-8009-0.0.1.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,6 +45,11 @@
     <ignored path="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/target/" />
     <ignored path="$PROJECT_DIR$/microservicecloud-dao/target/" />
     <ignored path="$PROJECT_DIR$/microservicecloud-eureka-8111/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-eureka-sliver-8112/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-eureka-sliver-8113/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-provider-dept-8008/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-provider-dept-8007/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,19 +76,27 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/hlgj/springcloud/controller/ConsumerRestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="84" column="20" lean-forward="true" selection-start-line="79" selection-start-column="7" selection-end-line="84" selection-end-column="20" />
+            <state relative-caret-position="295">
+              <caret line="36" column="45" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="45" />
+              <folding>
+                <element signature="e#1145#1146#0" expanded="true" />
+                <element signature="e#1188#1189#0" expanded="true" />
+                <element signature="e#1257#1258#0" expanded="true" />
+                <element signature="e#1300#1301#0" expanded="true" />
+                <element signature="e#1228#1229#0" expanded="true" />
+                <element signature="e#1254#1255#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-dao/src/main/java/com/hlgj/springcloud/entity/Dept.java">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/java/com/hlgj/springcloud/SpringEurekaMasterApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+            <state relative-caret-position="382">
+              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -95,12 +106,57 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-dao/src/main/java/com/hlgj/springcloud/mapper/DeptMapper.java">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-sliver-8112/src/main/java/com/hlgj/springcloud/SpringEurekaSliver1Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-164">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            <state relative-caret-position="313">
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-sliver-8113/src/main/java/com/hlgj/springcloud/SpringEurekaSliver2Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8007/src/main/java/com/hlgj/springcloud/controller/DeptController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/hlgj/springcloud/AppFeignlication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+                <element signature="e#896#897#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/service/DeptService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+              <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -108,82 +164,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/hlgj/springcloud/clientservice/DeptClientService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/config/BeanConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="34" column="63" selection-start-line="34" selection-start-column="63" selection-end-line="34" selection-end-column="63" />
+            <state relative-caret-position="263">
+              <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#680#681#0" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/controller/ConsumerRestController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-8111/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/java/com/hlgj/springcloud/SpringEurekaApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-                <element signature="e#766#767#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="24" column="67" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#597#598#0" expanded="true" />
-                <element signature="e#635#636#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -194,111 +180,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
               <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-dao/src/main/resources/mybatis/mapper/DeptMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="73" column="7" selection-start-line="73" selection-start-column="7" selection-end-line="77" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/service/DeptService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/service/impl/DeptServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1132#1133#0" expanded="true" />
-                <element signature="e#1181#1182#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-8010/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/DeptProviderApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-dao/src/main/resources/mybatis/mybatis.cfg.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/controller/DeptController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -322,36 +203,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/microservicecloud-api/pom.xml" />
-        <option value="$PROJECT_DIR$/microservicecloud-dao/src/main/resources/mybatis/mybatis.cfg.xml" />
-        <option value="$PROJECT_DIR$/microservicecloud-dao/src/main/java/com/hlgj/springcloud/dao/DeptMapper.java" />
-        <option value="$PROJECT_DIR$/microservicecloud-dao/pom.xml" />
-        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/resources/application-test.properties" />
-        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/resources/mybaits.cfg.xml" />
-        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/resources/mybatis/mapper/DeptMapper.xml" />
-        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/dao/DeptMapper.java" />
-        <option value="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/hlgj/springcloud/Dept.java" />
         <option value="$PROJECT_DIR$/microservicecloud-dao/src/main/java/com/hlgj/springcloud/entity/Dept.java" />
         <option value="$PROJECT_DIR$/microservicecloud-dao/src/main/java/com/hlgj/springcloud/mapper/DeptMapper.java" />
         <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/service/DeptService.java" />
         <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/service/impl/DeptServiceImpl.java" />
         <option value="$PROJECT_DIR$/microservicecloud-dao/src/main/resources/mybatis/mapper/DeptMapper.xml" />
-        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/config/BeanConfig.java" />
         <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/controller/RestController.java" />
-        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/pom.xml" />
         <option value="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/hlgj/springcloud/ReturnResult.java" />
-        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/Application.java" />
-        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/controller/ConsumerRestController.java" />
         <option value="$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/java/SpringEurekaApplication.java" />
         <option value="$PROJECT_DIR$/microservicecloud-eureka-8111/pom.xml" />
-        <option value="$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/java/com/hlgj/springcloud/SpringEurekaApplication.java" />
-        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8009/pom.xml" />
-        <option value="$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/DeptProviderApplication.java" />
-        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/controller/DeptController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-eureka-sliver-8112/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-eureka-sliver-8113/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-eureka-sliver-8112/src/main/java/springcloud/SpringEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/java/com/hlgj/springcloud/SpringEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-eureka-sliver-8112/src/main/java/com/hlgj/springcloud/SpringEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-eureka-sliver-8113/src/main/java/com/hlgj/springcloud/SpringEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-eureka-sliver-8112/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-eureka-sliver-8113/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/controller/ConsumerRestController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8009/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8008/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8007/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8008/src/main/java/springcloud/service/impl/DeptServiceImpl.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8008/src/main/java/com/hlgjspringcloud/service/impl/DeptServiceImpl.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8008/src/main/java/com/hlgj/springcloud/service/impl/DeptServiceImpl.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8007/src/main/java/springcloud/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8007/src/main/java/com/hlgj/springcloud/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/DeptProviderApplication.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8008/src/main/java/com/hlgj/springcloud/DeptProviderApplication.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8007/src/main/java/com/hlgj/springcloud/DeptProviderApplication.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8007/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8008/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/config/BeanConfig.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/hlgj/springcloud/ribbon/MyRobbinRule.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/hlgj/myconfig/ribbon/MyRobbinRule.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/Application.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/hlgj/myconfig/ribbon/MyRobbinRuleUpdate.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/springcloud/controller/ConsumerRestController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/hlgj/springcloud/Application.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/hlgj/springcloud/service/DeptService.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/hlgj/springcloud/service/DeptService.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/hlgj/springcloud/controller/ConsumerRestController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/hlgj/springcloud/AppFeignlication.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/hlgj/springcloud/clientservice/DeptClientService.java" />
       </list>
     </option>
   </component>
@@ -375,41 +277,6 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="microservicecloud-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="microservicecloud-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="microservicecloud-consumer-dept-8010" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="microservicecloud-dao" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="microservicecloud-eureka-8111" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="microservicecloud-eureka-8111" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="microservicecloud-provider-dept-8009" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="microservicecloud-provider-dept-8009" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="springcloud-project" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
@@ -426,7 +293,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -448,25 +315,25 @@
             <path>
               <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-eureka-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-eureka-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-eureka-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-eureka-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -474,7 +341,52 @@
             <path>
               <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-eureka-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hlgj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hlgj" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-consumer-dept-feign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-consumer-dept-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-consumer-dept-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-consumer-dept-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-consumer-dept-feign" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -483,50 +395,7 @@
             <path>
               <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-eureka-8111" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-provider-dept-8009" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-provider-dept-8009" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-provider-dept-8009" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-provider-dept-8009" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-provider-dept-8009" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-provider-dept-8009" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-consumer-dept-feign" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -536,10 +405,45 @@
             <path>
               <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-provider-dept-8009" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-consumer-dept-feign" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-eureka-8111" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-eureka-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-eureka-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-eureka-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudproject" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-eureka-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -556,7 +460,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586260283727" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586422712467" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../newpaywallet" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -575,8 +479,16 @@
       <recent name="E:\workspace\springcloudproject\microservicecloud-dao\src\main\resources" />
       <recent name="E:\workspace\springcloudproject\microservicecloud-provider-dept-8009\src\main\resources\mybatis" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hlgj.springcloud" />
+      <recent name="springcloud" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\workspace\springcloudproject\microservicecloud-provider-dept-8009\src\main\resources\mybatis\mapper" />
+      <recent name="E:\workspace\springcloudproject\microservicecloud-consumer-dept-feign\src\main\resources" />
+      <recent name="E:\workspace\springcloudproject\microservicecloud-consumer-dept-feign\src\main\java" />
+      <recent name="E:\workspace\springcloudproject\microservicecloud-provider-dept-8007\src\main\resources" />
+      <recent name="E:\workspace\springcloudproject\microservicecloud-provider-dept-8008\src\main\resources" />
+      <recent name="E:\workspace\springcloudproject\microservicecloud-provider-dept-8007\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -591,21 +503,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DeptProviderApplication">
-    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="microservicecloudconsumerdept8010" />
+  <component name="RunManager" selected="Spring Boot.SpringEurekaMasterApplication">
+    <configuration name="AppFeignlication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudconsumerdeptfeign" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hlgj.springcloud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hlgj.springcloud.Application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hlgj.springcloud.AppFeignlication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeptProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="DeptProvider8007Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudproviderdept8007" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hlgj.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hlgj.springcloud.DeptProvider8007Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider8008Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudproviderdept8008" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hlgj.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hlgj.springcloud.DeptProvider8008Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider8009Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="microservicecloudproviderdept8009" />
       <extension name="coverage">
         <pattern>
@@ -613,12 +551,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hlgj.springcloud.DeptProviderApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hlgj.springcloud.DeptProvider8009Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringEurekaApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="SpringEurekaMasterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="microservicecloudeureka8111" />
       <extension name="coverage">
         <pattern>
@@ -626,24 +564,18 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hlgj.springcloud.SpringEurekaApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="microservicecloudeureka8111" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="SpringEurekaApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hlgj.springcloud.SpringEurekaMasterApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.DeptProviderApplication" />
-        <item itemvalue="Spring Boot.SpringEurekaApplication (1)" />
-        <item itemvalue="Spring Boot.SpringEurekaApplication" />
-        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Spring Boot.AppFeignlication" />
+        <item itemvalue="Spring Boot.DeptProvider8008Application" />
+        <item itemvalue="Spring Boot.DeptProvider8007Application" />
+        <item itemvalue="Spring Boot.DeptProvider8009Application" />
+        <item itemvalue="Spring Boot.SpringEurekaMasterApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -665,13 +597,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23801000" />
+    <option name="totallyTimeSpent" value="53266000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -681,7 +613,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32850778" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3964365" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39198217" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -698,7 +630,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.28411514" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.28411514" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
@@ -723,86 +655,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://MAVEN/com.hlgj:microservicecloud-consumer-dept-8010:0.0.1">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.hlgj:microservicecloud-consumer-dept-8010:0.0.1</OriginalElement>
-          <nodes>
-            <node x="" y="">com.hlgj:microservicecloud-consumer-dept-8010:0.0.1</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="132.0" y="15.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/com.hlgj:springcloud-project:0.0.1">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.hlgj:springcloud-project:0.0.1</OriginalElement>
-          <nodes>
-            <node x="" y="">com.hlgj:springcloud-project:0.0.1</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="74.0" y="15.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-dao/src/main/resources/mapper/DeptMapper.xml" />
-    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/resources/application-test.properties" />
-    <entry file="file://$PROJECT_DIR$/microservicecloud-api/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.0/mybatis-spring-boot-autoconfigure-1.3.0-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2162">
-          <caret line="149" selection-start-line="149" selection-end-line="149" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.13.RELEASE/spring-core-4.3.13.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2438">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE-sources.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3312">
-          <caret line="181" selection-start-line="181" selection-end-line="181" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE-sources.jar!/org/springframework/beans/factory/support/ConstructorResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12075">
-          <caret line="587" selection-start-line="587" selection-end-line="587" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1-sources.jar!/org/mybatis/spring/SqlSessionFactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.13.RELEASE/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/stereotype/Service.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -847,16 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/service/DeptService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/service/impl/DeptServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -883,22 +725,284 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/config/BeanConfig.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="34" column="63" selection-start-line="34" selection-start-column="63" selection-end-line="34" selection-end-column="63" />
+        <state relative-caret-position="470">
+          <caret line="89" column="31" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-8111/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-sliver-8112/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-sliver-8113/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-sliver-8112/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="84" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="85" selection-start-line="10" selection-start-column="85" selection-end-line="10" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-sliver-8113/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="84" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="78" column="19" selection-start-line="12" selection-start-column="3" selection-end-line="78" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8008/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8007/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8008/src/main/java/com/hlgj/springcloud/service/impl/DeptServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8007/src/main/java/com/hlgj/springcloud/service/DeptService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8007/src/main/java/com/hlgj/springcloud/service/impl/DeptServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/DeptProvider8009Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8008/src/main/java/com/hlgj/springcloud/DeptProvider8008Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8008/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/controller/ConsumerRestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="49" column="24" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8007/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8007/src/main/java/com/hlgj/springcloud/DeptProvider8007Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/config/BeanConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/hlgj/myconfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/hlgj/myconfig/ribbon/MyRobbinRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.2.2/ribbon-loadbalancer-2.2.2-sources.jar!/com/netflix/loadbalancer/AbstractLoadBalancerRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+          <folding>
+            <element signature="e#1060#1061#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="33" column="80" selection-start-line="33" selection-start-column="80" selection-end-line="33" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/hlgj/myconfig/ribbon/MyRobbinRuleUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2427#2428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/hlgj/springcloud/config/BeanConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-8010/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        <state relative-caret-position="190">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/hlgj/springcloud/service/DeptService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="44" column="56" selection-start-line="43" selection-start-column="4" selection-end-line="44" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-sliver-8112/src/main/java/com/hlgj/springcloud/SpringEurekaSliver1Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-sliver-8113/src/main/java/com/hlgj/springcloud/SpringEurekaSliver2Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8007/src/main/java/com/hlgj/springcloud/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/service/DeptService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -912,100 +1016,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/hlgj/springcloud/AppFeignlication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="24" column="67" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
+        <state relative-caret-position="308">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-8010/src/main/java/com/hlgj/springcloud/controller/ConsumerRestController.java">
+    <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/hlgj/springcloud/clientservice/DeptClientService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        <state relative-caret-position="263">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-8111/pom.xml">
+    <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/java/com/hlgj/springcloud/SpringEurekaMasterApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/java/com/hlgj/springcloud/SpringEurekaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        <state relative-caret-position="382">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#766#767#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="73" column="7" selection-start-line="73" selection-start-column="7" selection-end-line="77" selection-end-column="21" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-8111/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/hlgj/springcloud/controller/ConsumerRestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/DeptProviderApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        <state relative-caret-position="295">
+          <caret line="36" column="45" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="45" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1145#1146#0" expanded="true" />
+            <element signature="e#1188#1189#0" expanded="true" />
+            <element signature="e#1257#1258#0" expanded="true" />
+            <element signature="e#1300#1301#0" expanded="true" />
+            <element signature="e#1228#1229#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009/src/main/java/com/hlgj/springcloud/controller/DeptController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="84" column="20" lean-forward="true" selection-start-line="79" selection-start-column="7" selection-end-line="84" selection-end-column="20" />
         </state>
       </provider>
     </entry>
