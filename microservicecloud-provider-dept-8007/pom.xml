@@ -11,11 +11,12 @@
 
     <artifactId>microservicecloud-provider-dept-8007</artifactId>
     <description>微服务提供者</description>
+
     <dependencies>
         <dependency>
             <groupId>com.hlgj</groupId>
             <artifactId>microservicecloud-dao</artifactId>
-            <version>0.0.1</version>
+            <version>${project.version}</version>
         </dependency>
         <dependency><!--引入自己定义的api通用包，可以使用Dept实体类 -->
             <groupId>com.hlgj</groupId>

@@ -1,6 +1,9 @@
 server:
   port: 8010
 
+feign:
+  hystrix:
+    enabled: true
 
 
 eureka:

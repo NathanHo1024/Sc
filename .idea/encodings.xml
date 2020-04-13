@@ -5,6 +5,7 @@
     <file url="file://$PROJECT_DIR$/microservicecloud-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-consumer-dept-8010" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-dao" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-eureka-8111" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-eureka-sliver-8112" charset="UTF-8" />
@@ -12,6 +13,7 @@
     <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-8007" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-8008" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8007" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

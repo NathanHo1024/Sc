@@ -9,6 +9,7 @@
         <module name="microservicecloudapi" />
         <module name="microservicecloudconsumerdept8010" />
         <module name="microservicecloudconsumerdeptfeign" />
+        <module name="microservicecloudconsumerhystrixdashboard" />
         <module name="microserviceclouddao" />
         <module name="microservicecloudeureka8111" />
         <module name="microservicecloudeurekasliver8112" />
@@ -16,6 +17,7 @@
         <module name="microservicecloudproviderdept8007" />
         <module name="microservicecloudproviderdept8008" />
         <module name="microservicecloudproviderdept8009" />
+        <module name="microservicecloudproviderdepthystrix8007" />
       </profile>
     </annotationProcessing>
   </component>
