@@ -14,6 +14,7 @@
     <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-8008" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-8009" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8007" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-zuul-gateway-9527" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

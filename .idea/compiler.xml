@@ -18,6 +18,7 @@
         <module name="microservicecloudproviderdept8008" />
         <module name="microservicecloudproviderdept8009" />
         <module name="microservicecloudproviderdepthystrix8007" />
+        <module name="microservicecloudzuulgateway9527" />
       </profile>
     </annotationProcessing>
   </component>
