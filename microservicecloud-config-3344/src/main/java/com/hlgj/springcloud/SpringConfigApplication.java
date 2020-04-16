@@ -10,6 +10,11 @@
  */
 package com.hlgj.springcloud;
 
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
+import org.springframework.cloud.config.server.EnableConfigServer;
+
 /**
  * 〈一句话功能简述〉<br> 
  * 〈〉
@@ -18,6 +23,11 @@ package com.hlgj.springcloud;
  * @create 2020/4/16
  * @since 1.0.0
  */
+@SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
+@EnableConfigServer
 public class SpringConfigApplication {
 
+    public static void main(String[] args) {
+        SpringApplication.run(SpringConfigApplication.class, args);
+    }
 }
